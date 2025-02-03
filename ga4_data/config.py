@@ -14,10 +14,10 @@ CLIENT_SECRET_FILE_ROOT = 'Code/oauth/'
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
 
 # SQL Server configuration
-SQL_SERVER = 'predicta.database.windows.net'
-SQL_DATABASE = 'Predicta_Portal_DB'
-SQL_USER = 'qb_Dev'
-SQL_PASSWORD = 'FsBTB8zXz0s6kPXM'
+SQL_SERVER = ''
+SQL_DATABASE = ''
+SQL_USER = ''
+SQL_PASSWORD = ''
 
 
 # Path
